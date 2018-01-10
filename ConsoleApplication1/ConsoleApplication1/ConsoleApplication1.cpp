@@ -5,7 +5,7 @@
 
 
 int main()
-{
+{//commentaire inutile
     return 0;
 }
 
